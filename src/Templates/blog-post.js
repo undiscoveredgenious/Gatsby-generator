@@ -50,7 +50,7 @@ export default function Template ({data}) {
                     <li className={styles.question}>{post.Question4}</li>
                 </ul>
             </div>
-            <h5 className={styles.copyright}>World English Bible (WEB)<br />a Public Domain Modern English translation<br />of the Holy Bible.<br /><br />© 2018 SourceView LLC.</h5>
+            <h5 className={styles.copyright}>Nueva Traducción Viviente (NTV)<br />La Santa Biblia, Nueva Traducción Viviente<br />© Tyndale House Foundation, 2010. Todos los derechos reservados<br /><br />© 2018 SourceView LLC.</h5>
 
             {/* ----------------------------------------
                             NAV BAR

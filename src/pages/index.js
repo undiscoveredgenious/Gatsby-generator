@@ -336,7 +336,7 @@ const BlogPage = ({data}) => (
                     ))}
                 </ul>
         </details>
-        <h5 className={styles.copyright}>NTV copyright info<br /> year or other info<br /><br />&#169; 2018 SourceView LLC.</h5>
+        <h5 className={styles.copyright}>Nueva Traducción Viviente (NTV)<br />La Santa Biblia, Nueva Traducción Viviente<br />© Tyndale House Foundation, 2010. Todos los derechos reservados<br /><br />&#169; 2018 SourceView LLC.</h5>
     </div>
     
 )
